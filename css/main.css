@@ -1,0 +1,54 @@
+.navbar{
+  margin-bottom: 0px;
+}
+
+.yellow{
+
+  padding: 20px;
+  text-align: center;
+  min-height: 40px;
+  background-color: yellow;
+  font-size: 40px;
+}
+
+.text{
+  font-size: 33px;
+}
+
+.center{
+  text-align: center !important;
+}
+
+.bg{
+  background-color: orange;
+  min-height: 720px;
+  height: auto;
+}
+
+.font{
+  font-style: italic;
+}
+
+.padding{
+  padding: 70px;
+}
+.padding2{
+  padding: 40px;
+}
+.fcolor{
+  background-color: lightgrey;
+  padding: 10px;
+}
+.list{
+  margin: 0px;
+  padding: 0px;
+  text-align: left;
+  position: relative;
+  right: 36px;
+}
+
+.slider{
+  height: auto;
+  margin: 0px;
+  padding: 0px;
+}
